@@ -5,6 +5,10 @@ along with the script to generate them from the images.
 
 ![Alt text](blob/master/synthetic_data.pdf) 
 
+<img src="synthetic_data.pdf"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 Dependency:
 
 http://stnava.github.io/ANTs/
