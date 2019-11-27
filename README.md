@@ -1,11 +1,14 @@
-This repository contains a pair of sythetic 2D images in gray 
-scale related to each other by a smooth deformation. A pair of
-DVFs obtained by the ANTs software are also provide
-along with the script to generate them from the images.
+This repository contains a pair of synthetic 2D images in gray 
+scale related to each other by a smooth deformation. 
+
+A pair of DVFs obtained by the ANTs software are also added
+along with the script that generated these DVFs.
+
+Synthetic images (a-b) and forward DVF (c) are visualized below.
 
 ![Synthetic data](synthetic_data.png) 
 
 
-Dependency:
+Software dependency:
 
 http://stnava.github.io/ANTs/
